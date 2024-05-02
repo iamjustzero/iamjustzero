@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zero</h1>
-<h3 align="center">A passionate about dev and cyberseurity</h3>
+<h3 align="center"> I'm passionate about dev and cyberseurity</h3>
 
 - 📫 How to reach me **imjustzero@duck.com**
 
